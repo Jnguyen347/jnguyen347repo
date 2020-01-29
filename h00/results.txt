@@ -1,4 +1,4 @@
-INSTRUCTOR TESTING H00--Jnguyen347
+INSTRUCTOR TESTING H00--jnguyen347
 ----------------------------------------------------------------------
    X Input of 5: expected [0.000141748, 7054.78] but found [1, 1]
    X Input of 8: expected [0.000226796, 4409.24] but found [1, 1]
@@ -9,6 +9,6 @@ INSTRUCTOR TESTING H00--Jnguyen347
    X Input of 32: expected [0.000907186, 1102.31] but found [1, 1]
    + Input of 35273.92->1, 1
 ----------------------------------------------------------------------
-INSTRUCTOR TESTS H00:Jnguyen347: ALL TESTS -- PASS 1/8 (12%).
+INSTRUCTOR TESTS H00:jnguyen347: ALL TESTS -- PASS 1/8 (12%).
 ----------------------------------------------------------------------
-MTU4MDI1ODA0MjpKbmd1eWVuMzQ3OkgwMDoxMi41MCU=
+MTU4MDI1ODQ2NTpqbmd1eWVuMzQ3OkgwMDoxMi41MCU=

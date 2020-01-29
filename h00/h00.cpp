@@ -7,7 +7,7 @@
 #include <string>
 using namespace std;
 
-string STUDENT = "Jnguyen347";  // Add your Canvas login name
+string STUDENT = "jnguyen347";  // Add your Canvas login name
 extern string ASSIGNMENT;
 
 /**
