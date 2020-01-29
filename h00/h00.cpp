@@ -1,13 +1,13 @@
 /**
- *  @author Put your name here
- *  @date Put the date here (Semester is OK)
+ *  @author James Nguyen
+ *  @date Spring 20 TTHAFT
  *  @file h00.cpp
  */
 #include <iostream>
 #include <string>
 using namespace std;
 
-string STUDENT = "WHO ARE YOU?";  // Add your Canvas login name
+string STUDENT = "Jnguyen347";  // Add your Canvas login name
 extern string ASSIGNMENT;
 
 /**
@@ -18,7 +18,9 @@ int run()
 {
     // Add your implementation comments here
 
-    // Write your code here
+    cout << STUDENT << " starter code." << endl;
+    cout << "[1, 1]" << endl;
+
 
     return 0;
 }
