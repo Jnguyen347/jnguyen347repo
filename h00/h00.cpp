@@ -38,7 +38,7 @@ int run()
 
     // Output section
     cout << "Weight in metric tons, boxes per ton: ["
-        << 0.000283496 << ", " << 3527.39 << "]" << endl;
+        << weightInTons << ", " << boxesPerTon << "]" << endl;
 
     return 0;
 }
